@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Conway's Game of Life Simulation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
+A simulation of the zero-player game devised by the British mathematician John Horton Conway.
 
 ## Available Scripts
 
